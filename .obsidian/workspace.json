@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "445b621c522ac03f",
+        "id": "dd756f868bcbca8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e62e71d5b05a6742",
+            "id": "e7a3cd7267f19581",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vim/note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vim/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vim/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vim/note.md"
+              }
             }
           }
         ]
@@ -138,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e62e71d5b05a6742",
+  "active": "e7a3cd7267f19581",
   "lastOpenFiles": [
+    "vim/note.md",
+    "tips css/writing good html & css.md",
+    "Untitled.md",
+    "vim",
     "flutter/dart.md",
     "tips css/animation.md",
-    "Untitled.md",
     "jenkins/docker compose.md",
     "jenkins/url.md",
     "tips css/Maintenale  and scalable code.md",
     "jenkins",
     "flutter/Widgets.md",
     "k8s",
-    "tips css/writing good html & css.md",
     "Untitled 2.md",
     "flutter",
     "tips css"
